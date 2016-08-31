@@ -12,10 +12,10 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/goadapp/goad"
-	"github.com/goadapp/goad/helpers"
-	"github.com/goadapp/goad/queue"
-	"github.com/goadapp/goad/version"
+	"github.com/rainforestapp/goad"
+	"github.com/rainforestapp/goad/helpers"
+	"github.com/rainforestapp/goad/queue"
+	"github.com/rainforestapp/goad/version"
 	"github.com/nsf/termbox-go"
 )
 

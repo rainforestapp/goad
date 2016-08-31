@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"github.com/aws/aws-sdk-go/aws"
-	"github.com/goadapp/goad/helpers"
-	"github.com/goadapp/goad/queue"
+	"github.com/rainforestapp/goad/helpers"
+	"github.com/rainforestapp/goad/queue"
 )
 
 func main() {

@@ -9,7 +9,7 @@ import (
 	"github.com/aws/aws-sdk-go/service/iam"
 	"github.com/aws/aws-sdk-go/service/lambda"
 	"github.com/aws/aws-sdk-go/service/sqs"
-	"github.com/goadapp/goad/version"
+	"github.com/rainforestapp/goad/version"
 	"github.com/satori/go.uuid"
 )
 
